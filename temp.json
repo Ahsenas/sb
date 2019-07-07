@@ -1,21 +1,21 @@
 {
-    "sambutan": false,
-    "Sider": {},
-    "autoAdd": false,
-    "autoJoin": false,
-    "autoLeave": false,
-    "autoRead": false,
+    "sambutan": help,
+    "Sider": {on/off},
+    "autoAdd": on/off,
+    "autoJoin": on/off,
+    "autoLeave": on/off,
+    "autoRead": On/off,
     "changeGroupPicture": [],
-    "checkSticker": false,
-    "detectMention": false,
+    "checkSticker": on,
+    "detectMention": Tagall,
     "lang": "JP",
     "mimic": {
         "copy": false,
-        "status": false,
-        "target": {}
+        "status": on,
+        "target": {on}
     },
-    "unsend": false,
-    "userAgent": [
+    "unsend": on/off,
+    "userAgent": [Yes
         "Mozilla/5.0 (X11; U; Linux i586; de; rv:5.0) Gecko/20100101 Firefox/5.0",
         "Mozilla/5.0 (X11; U; Linux amd64; rv:5.0) Gecko/20100101 Firefox/5.0 (Debian)",
         "Mozilla/5.0 (X11; U; Linux amd64; en-US; rv:5.0) Gecko/20110619 Firefox/5.0",
@@ -37,4 +37,4 @@
         "Mozilla/5.0 (Windows NT 5.0; WOW64; rv:5.0) Gecko/20100101 Firefox/5.0",
         "Mozilla/5.0 (Windows NT 5.0; rv:5.0) Gecko/20100101 Firefox/5.0"
     ]
-}
+}g
